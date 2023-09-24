@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>The Hong Kong Polytechnic University (PolyU)</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
